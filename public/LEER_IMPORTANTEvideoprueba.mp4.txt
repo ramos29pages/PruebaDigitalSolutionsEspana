@@ -1,0 +1,28 @@
+IMPORTANTE ¡¡¡¡
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+DESCOMPRIMIR AQUÍ EL ARCHIVO RAR DE VIDEOPRUEBA.RAR EN EL ARCHIVO 
+
+******  videoprueba.mp4 EN LA RUTA @Root - public\videoprueba.mp4
+
+O PUEDE MODIFICAR LA VARIABLE 
+
+******    string videoPath = @$"{pathRoot}\public\videoprueba.mp4";
+
+POR 
+
+******    string videoPath = @$"ruta-archivo-de-video.mp4";
+
+EN EL ARCHIVO Program.CS
+
+
+
+***********   ESPERO FORMAR PARTE DE SU EQUIPO DE TRABAJO 🙂 **********
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
